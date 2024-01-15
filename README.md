@@ -1,6 +1,6 @@
-# Engineering_holography
+# Engineering_holography (preprint of the work is in https://arxiv.org/abs/2209.08954)
 
-The program is used to find the optimal graph for two instance of the hyperbolic pentagon code [Pastawski et al.,
+The code is used to find the optimal graph for two instance of the hyperbolic pentagon code [Pastawski et al.,
 JHEP 2015:149 (2015)]:
 
 1) Small instance of 16 qubits (Main_16.py):
@@ -14,6 +14,9 @@ JHEP 2015:149 (2015)]:
 
 In both cases the program also gives you the files GraphBM.pdf and GraphAM.Pdf. The first shows the layout of the pentagons before the meaurement and the second the resulting graph after the measurement (without optimizing).
 
-The preprint of the work is in https://arxiv.org/abs/2209.08954.
 
 *The library gsc is a modified version of https://github.com/sammorley-short/gsc which works for python3.
+
+
+
+
